@@ -1,4 +1,4 @@
-# 🌑 Dunkelmaterie
+# Dunkelmaterie
 
 ### Control & Automation Engineer | Low-Level Developer | Motorsports Enthusiast
 
