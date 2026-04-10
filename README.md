@@ -6,12 +6,12 @@
 
 ### About Me
 
-I am a **Control and Automation Engineering** student with a deep focus on the intersection of hardware and software. My work revolves around understanding how systems function at their most fundamental level—whether it's a kernel module, a networking protocol, or the physics of a vehicle in a high-speed curve.
+I am a **Control and Automation Engineering** student with a deep focus on the intersection of hardware and software. My work revolves around understanding how systems function at their most fundamental level—whether it's a kernel module, a networking protocol, or the physics of a complex industrial system.
 
-- 🛠️ **Currently working on:** Low-Level and Embedded Development.
-- 🔒 **Interests:** Reverse Engineering, Malware Analysis and Development, Cyber Security, Digital Privacy and Operational Security.
-- 🐧 **Environment:** Power user of **Arch Linux** with a hardened kernel, encrypted drive, kill switch and **Hyprland** workflow.
-- 🏎️ **Passions:** Motorsports, Sim Racing (Assetto Corsa).
+-  **Currently working on:** Low-Level and Embedded Development.
+-  **Interests:** Reverse Engineering, Malware Analysis and Development, Cyber Security, Digital Privacy and Operational Security.
+-  **Environment:** Linux user (**Arch Linux**) with a hardened kernel, encrypted drive, and **Hyprland** workflow.
+-  **Passions:** Motorsports, Sim Racing (Assetto Corsa).
 
 ---
 
