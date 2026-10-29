@@ -10,7 +10,7 @@ I am a **Control and Automation Engineering** student with a deep focus on the i
 
 -  **Currently working on:** Low-Level and Embedded Development.
 -  **Interests:** Reverse Engineering, Malware Analysis and Development, Cyber Security, Digital Privacy and Operational Security.
--  **Environment:** Linux user (**Arch Linux**) with a hardened kernel, encrypted drive, and **Hyprland** workflow.
+-  **Environment:** Linux user with a hardened kernel, encrypted drive, and **Hyprland** workflow.
 -  **Passions:** Motorsports, Sim Racing (Assetto Corsa).
 
 ---
